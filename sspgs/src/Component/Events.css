@@ -1,0 +1,9 @@
+.event-card{
+    padding: 20px;
+    display: flex;
+}
+
+.event-card > .event-image > img{
+    border-radius: 15px;
+    box-shadow: 3px 3px 2px 2px rgb(75, 11, 75);
+}
